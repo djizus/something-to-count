@@ -1,0 +1,13 @@
+# Snapshots of the manuscript taken before each pass. The history is in git from here on.
+manuscript-v*/
+state-v*.md
+
+# Copies of the manuscript handed to blind readers for old-against-new comparisons.
+audit/pair*/A/
+audit/pair*/B/
+audit/voicepair/p*/
+
+# Build leftovers.
+book/_print/
+__pycache__/
+.playwright-mcp/
