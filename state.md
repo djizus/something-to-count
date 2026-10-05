@@ -72,7 +72,7 @@ Rebuilt chapter by chapter from the manuscript. The two villages share every nam
 - `ride` — both sit in the chair; the one who stays sitting rides to the other's bed when she wakes (ch03, ch06, ch13). The rider has legs, left hand and mouth; the host keeps the right hand and can seize the jaw (ch03, ch05, ch06).
 - `empty-body` — eyes open, pulse falling, colder each time (ch06, ch09).
 - `leak` — each brings memories home (ch03, ch04, ch10).
-- `truth-rule` — in the steel room an untrue sentence will not come out (ch04, ch09, ch17).
+- `truth-rule` — words stick in the steel room twice in the book, and nowhere else. Lesca's "It's the ti—" sticks twice on the same word: "It came out in my kitchen." / "This isn't your kitchen." (ch09); "It's the tide" comes out in her own bedroom (ch11), and she remembers that the word had not come (ch13). At the last meeting her "I won't" "came out whole" (ch17). Everywhere else in that room both women say what they like and nothing certifies it: Lesca stops Maylis's "Either" herself, and her "nobody has looked after your bank for twelve years" comes out whole and is disputed (ch04); "To stay" is her own answer (ch09).
 - `river-follows` — rain comes to M when Maylis lets Lesca in; two nights of pushing gave the only dry days (ch07, ch09).
 - `legend` — "The one it cannot take home dies in that bed"; the dead play bingo with corn and lay a place (ch02).
 - `hall-of-dead` — three rows; Maylis's father at the end of the second row, watch beside his card; empty place in the second row beside Jean, card "LESCA, MAYLIS." (ch09, ch13).
@@ -183,33 +183,4 @@ drawer envelope, ch02 · who was under Inguma, ch03 · second name on the stone,
 
 ## 5. Contradictions
 
-Three, all of one shape: a sentence that says *never* or *every* and is undone by a scene elsewhere. Dates, weekdays, clock times, distances, river levels, counts, hands, sides, what each woman knows and when, and every repeated quotation were checked against the state chapter by chapter and hold.
-
-### 1. Fact — chapter 5 against chapter 1
-
-- Ch05: "Maylis had never smiled at Jeannot Castagnet in her life, and the whole café was watching her do it."
-- Ch01, six days earlier, at his van window: "He laughed. She started to laugh too, until the rib stopped her. He saw it happen."
-
-She has laughed with him, face to face, and he watched her do it.
-
-**Mend, in chapter 5:** narrow the claim to what is new. For example: "Maylis had never stood and smiled at Jeannot Castagnet in her life". Chapter 1 stays as it is; the laugh sets up "Put it in forty-two".
-
-### 2. Fact — chapter 5 against chapter 4
-
-- Ch05, Monday 30 November: "Maylis had stood over that pad every morning for sixteen years and had never got as far as one tick."
-- Ch04, Saturday 28 November, same pad, same pencil: "Maylis picked up the pencil in her left hand. Both answers were true. There was no third box. / She ticked both."
-
-Two days before, she made two ticks on it. The sense intended is that she has never chosen one.
-
-**Mend, in chapter 5:** say that. For example: "and had never ticked one box and left the other". Chapter 4 stays.
-
-### 3. Timeline — chapter 17 against chapters 1, 5 and 9
-
-- Ch17, Coralie: "Every night since I started there I've stood at that door at lights-out while she said her words to the wardrobe".
-- Ch01, Tuesday 24 November: "Maylis came home at 7 that evening and found Coralie standing in the kitchen", and "At 10 Coralie pulled the blanket off the bed and shook it out."
-- Ch05, Monday 30 November: "At 7 there was soup", and "At 9:05 Coralie turned off the light over the sink and went to the stairs."
-- Ch09, Tuesday 8 December: "'From his car?' Coralie said that evening, at the stove."
-
-Chapter 2 makes the door a duty of the late shift ("Coralie was on the late shift … 'I can't go till she's done. It's in the care plan.'"). On at least three evenings she is at home at lights-out.
-
-**Mend, in chapter 17:** "Every late shift since I started there I've stood at that door at lights-out". The other chapters stay.
+None open. The three found when this state was rebuilt on 5 October 2026, and the twenty-eight found by the four window checks, were mended the same day (`briefs/window-apply.md`).
