@@ -82,7 +82,7 @@ One lamp came on. Maylis wrote down which one on a card, put the card in an enve
 
 She slept a little towards morning. When she woke there was a picture in her head that hadn't been there before: a stone, standing in front of the town hall where the mayor parked his car. Grey granite, as high as her shoulder. Somebody had put it up straight. A name was cut into it in capitals: MAYLIS LESCA. Above hers was another name, which she couldn't read. Under hers was a date. That she could read: 12 DECEMBER. A year came after it, but that part of the picture wouldn't stay in her head.
 
-Maylis dug the graves in Peyrebarthe, so she knew what a name and a date on a stone meant. It was 24 November. She counted the days. Eighteen.
+Maylis dug the graves in Peyrebarthe, so she knew what a name and a date on a stone meant. It was the 24th of November. She counted the days. Eighteen.
 
 She treated the stone as one more job and told nobody.
 
