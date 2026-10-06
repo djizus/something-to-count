@@ -12,7 +12,7 @@ Maylis Lesca is the outdoor worker of a village on the Adour. She keeps the key 
 ## Build it
 
 ```
-python3 build.py "Something to Count" "Several Hands"
+python3 build.py "Something to Count" "Vera Shandles"
 ```
 
 writes `book/something-to-count.md`, `.html` and, where LibreOffice is installed, `.pdf`.

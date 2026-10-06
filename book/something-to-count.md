@@ -1,6 +1,6 @@
 # Something to Count
 
-Several Hands
+Vera Shandles
 
 ## The night of 11 December 2014
 

@@ -38,7 +38,7 @@ The book is done when all of these hold:
 
 ## Open
 
-- **Author on the title page.** *Several Hands*, the pen name the editor chose when JC asked for one on 6 October 2026: an old form of attribution for a book made by more than one writer, and the book is about whose hand does what.
+- **Author on the title page.** *Vera Shandles*, the pen name the editor chose on 6 October 2026 when JC asked for a first name and a surname. It is an anagram of "several hands", the old title-page formula for a book made by more than one writer; the surname holds the handle that sticks at nineteen. A search found nobody of that name.
 - **Reading copy.** Typographic quotation marks are set by `build.py` at build time; the manuscript keeps straight ones.
 - **Title.** *Something to Count*, chosen by JC on 5 October 2026 after eight jurors ranked nine titles (`audit/title-*.md`). Before it: *Either* (5 October), which every juror said meant nothing to a stranger reading a list of entries; before that *It Rang Once*, dropped because the title should not be the last line of the cold open. JC liked none of the early ones. Others: Forty-One, Something for It to Count, With Its Back to Her, The Other Lamp.
 
@@ -128,7 +128,7 @@ Reports for every round are in `audit/`. Each round used five fresh readers who 
 
 **Next, if work goes on:** repeat the quoted-sentence and cut pass each round (one iteration is scripted: an editor fixes what the round's critics quoted, then five fresh critics read again); JC's own read; his call on whether the book is a dry village comedy that becomes a thriller, or has to be a thriller from page one.
 
-The reading copy is built by `python3 build.py "Something to Count" "Several Hands"` into `book/`.
+The reading copy is built by `python3 build.py "Something to Count" "Vera Shandles"` into `book/`.
 
 ## Who writes
 
