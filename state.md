@@ -1,186 +1,155 @@
-# State of the book at the end of chapter 17
+# Narrative state
 
-Rebuilt chapter by chapter from the manuscript. The two villages share every name. **M** is Maylis's Peyrebarthe: dry in 2014, flooded on 12 December 2026. **L** is Lesca's Peyrebarthe: gate opened on 12 December 2014, Jean Castagnet drowned. The book ends in M on Monday 14 December (ch17), in L on the night of Tuesday 15 December (ch16).
+Rebuilt from `manuscript/00.md` to `17.md`, read in order. There are two Peyrebarthes. The **rain village** is Maylis's: left lamp, Larrère mayor, flood on 12 December 2026. The **stone village** is Lesca's: right lamp, flood night of 11 to 12 December 2014, Lesca mayor. Keys end in `-rain` or `-stone` where a person exists twice. Numbers in brackets are chapters.
 
-## 1. People
+## 1. People, at the end of chapter 17
 
-### M village
+### Rain village
 
-- `maylis` — Monday 14 December, morning, in the cemetery above the village, cutting Madame Etcheto's grave left-handed, Jeannot digging beside her. **Wants:** to dig that grave herself, her first plain answer to Coralie (ch17). **Stands:** Coralie gone; job gone; the Port says "You had the key"; Kévin, Marie-Jo and Jeannot are with her. **Knows:** the stone and Jean's drowning (ch04); the whole 2014 night, van seen, one ring at 02:51, Coralie's car in the yard (ch10); Larrère rang from *Castagnet, house* (ch14); Lesca brings the river (ch07–09); Etcheto drowned in twelve (ch14); Maïté has left (ch17). **Has:** gate key on her belt (Larrère wants it in his tray); letter No. 42 buttoned in her chest pocket; phone. Her *left* card went into the envelope in the steel room (ch17). **Body:** right rib cracked 23 November, coughed pink 4 December, gave again at the trapdoor (ch14), strapped with three turns (ch17); right palm cut 30 November, closing, grip weak.
-- `received-by-maylis` — from Lesca: pictures of the stone (24 Nov), the sash (25 Nov), grey water (27 Nov); an afternoon on Maïté's ladder (ch04); the 2014 night whole (ch10); five words, "Go to the hut first" (ch13).
-- `coralie-m` — care assistant. Left the house on the night of Sunday 13 December, by car, with one bag (three uniforms, good coat, the clock she woke to) and her pillow; where to is not said. Starts on the geriatric floor at Bayonne, nights, in January. **Knows:** two women share Maylis's body (ch08); Lesca is the flood (ch09); Maylis picked Castagnet ("I was the other one"). **Holds:** the torn pad page of 28 November; the three-column page; Bayonne's letter. Carries not waking Etcheto as hers.
-- `larrere-m` — mayor, at his car-window gap since 2008; president of the landowners' association. Ordered the gate shut by phone at 2:53 from Maïté's kitchen. Sunday 13: car stuck at the Port crossroads; dated the resignation; "There is no other sheet." Maïté has left him. Sarthou holds the call record.
-- `jeannot-m` — Jean Castagnet, 58, alive. Raised the gate at 3:20; knee hurt; hut flooded; van left at the dip. Wife gone ("I saw the wardrobe"). Has written No. 42.
-- `maite-m` — left on the Bayonne bus, Sunday 13 December, with the light brown suitcase.
-- `kevin-m` — Labat; made three van trips up the hill; tipped his eels back in the river; flew on Saturday night and "didn't like it"; towed the village van out.
-- `sarthou-m` — gendarme, Jeannot's cousin, last house in the Port, flooded to table height. His file names Maylis: left the gate at 2:57; bank broke 3:11.
-- `etcheto-m` — 94, drowned in her bed in room twelve, found 04:16 on 12 December. Burial Tuesday 15 December at 10, beside her husband; her daughter wants the words said.
-- `marie-jo-m` — Kévin's mother, bingo caller; had the hall open at 3:30.
-- `others-m` — Josiane; Bordenave (dry upstairs, keeps the pad); Madame Darrigrand (thirty-eight, baby safe, blames Maylis to her face); forty-one residents taken to Bayonne on Saturday.
+- `maylis` — **Where:** Monday 14 Dec, morning, in the cemetery above the village, cutting Madame Etcheto's grave, Jeannot digging beside her. **Wants:** to dig this grave herself. She asked Coralie to stay and was refused (17). **Stands:** Coralie gone. Job gone: resignation dated 12 Dec, and "The key goes in my tray". The café says "Had the key and went for a walk". Sarthou's file has her leaving the gate at 2:57. Jeannot, Kévin and Marie-Jo stand by her. She has told Lesca "Don't come again". **Knows:** the stone and its date (1, 4); Lesca's flood night, with the look down the track and the one ring (10); the typed file (6); that Larrère rang from the Castagnet kitchen (14) and uses the back lane (6, 12); Coralie's Bayonne form (8) and post (17); forty-one saved, Madame Etcheto drowned (14). **On her:** the gate key on her belt; her phone; in the raincoat's chest pocket the card *left* and Jeannot's letter No. 42. **Body:** right rib cracked 23 Nov, pink in the sink (7), "Something gave" at the trapdoor (14), strapped with three turns (17), seen by no doctor. Right palm cut 30 Nov, bandaged, closing to a scar, grip weak. Works left-handed. **Had from Lesca:** the stone, the sash and full square, the grey lake (1, 2); an afternoon on Maïté's ladder (4); the flood night (10); the words "Go to the hut first" (13, 14).
+- `coralie-rain` — Left the house on Sunday 13 Dec at about 9 pm with one bag (three uniforms, the good coat, the clock), her pillow and the car. **Wants:** the geriatric floor at Bayonne, on nights, from January. **Stands:** "I know what you picked. I was the other one." Strapped the rib before she went. **Knows:** that there are two women in Maylis (4, 8), that Lesca is the flood, and what Jeannot is to her (9). **Carries:** not waking Madame Etcheto ("That part is mine").
+- `larrere-rain` — Mayor and president of the landowners' association. On Sunday in the Port on foot, his car stuck at the crossroads. Dated and "accepted" the resignation; denied in front of Sarthou that a sheet with Kévin's name exists. Ordered the gate shut on Friday morning and again at 2:53 from Maïté's kitchen. Maïté has left.
+- `jeannot-rain` — 58, alive. Pulled out of his dry hut at about 3:00 on 12 Dec; raised the gate at 3:20; hurt a knee; carried the residents who could not sit. Hut drowned, van towed, wife gone ("I saw the wardrobe"). Letter No. 42 is his statement for Sarthou. Holds that he was in no danger. Digging.
+- `maite-rain` — Took the Bayonne bus on Sunday 13 Dec with the light brown suitcase, alone, her fare short.
+- `kevin-rain` — Drove his van up the hill three times with residents. Counted five fingers at 4:00 and "wanted six". Eels tipped back in the river. No charge laid. Towed both vans out of the dip; the village van's engine is dead.
+- `marie-jo-rain` — Kévin's mother, bingo caller. Opened the hall, counted the residents in, stood Maylis a chair.
+- `sarthou-rain` — Gendarme, Jeannot's cousin. His house, the last one, flooded to the height of a table. Did every door; carried the Darrigrand baby. Keeps the file. Took *Castagnet, house* off Maylis's phone.
+- `etcheto-rain` — Dead at 94 in room twelve, found at 4:16 on 12 Dec. Burial Tuesday 15 Dec at 10:00, beside her husband. Her daughter wants her words said over her.
+- `port-rain` — Bordenave stayed upstairs and keeps the pad. Madame Darrigrand (no. 38) blames Maylis and Larrère both. The forty-one are in Bayonne.
+- `arlette-rain` — Never appears. Nothing says whether Maylis's mother is alive in this village.
 
-### L village
+### Stone village
 
-- `lesca` — Tuesday 15 December, night, on the edge of her bed, door open, lamp on. The council has asked the prefect to remove her, eleven for, none against; sash and town hall keys laid down; medal returned Saturday. Said in the square that she saw the van, rang once, "and I drowned him" (ch15). Told Maylis "I won't" come again (ch17). **Knows:** M's room twelve drowned of her river (ch15–16). Scar on right palm since 2014. Inguma gone.
-- `received-by-lesca` — from Maylis: signing for letter forty-one (ch03); the handle and the three letters (ch04); the 2017 tow (ch05); Coralie's "ask and I'll come" (ch08); the pad's Friday list (ch09).
-- `coralie-l` — runs the care home. Sleeps in the spare room, four steps away. Has known the phone log since 12 December 2014 (ch11). Rang Bayonne at 2:55 on Saturday. Tuesday night: "Good night, Maylis", the first time not "Madame le maire".
-- `larrere-l` — mayor until 2015. Abstained on the removal. Maïté told him to his face that he rang from her kitchen knowing Jean was out; he said nothing.
-- `maite-l` — widow. Her verb was *Left*. Turned her cheek away at the stone.
-- `arlette` — Lesca's mother, across the yard. "I'm not asking you why."
-- `others-l` — Marie-Jo (speaks to Lesca directly again); Kévin (village worker, served six months for eels); Madame Etcheto (alive: "It was you"); Sarthou (retired); Monsieur Darrigrand (sweeps his doorstep).
-- `jean-l` — dead since 2014. At the dead's bingo, second row, two jackets, a card in each hand. Never looks up.
+- `lesca` — **Where:** Tuesday 15 Dec, night, on the edge of her bed, door open, lamp on. **Wants:** nothing more from the other village ("I won't"); Coralie back across the landing. **Stands:** told the square on 12 Dec "I opened the gate, and I drowned him". Medal handed back. Council voted to ask for her removal. Sash and keys laid down. "Surname first." **Knows:** that Coralie has known of the 02:51 call since 12 Dec 2014 (11); that Larrère rang from Maïté's kitchen knowing Jean was out (16); Maïté's verb (16); that the other Madame Etcheto took a seat among the dead (15, 16). Cannot tell whether she opened the gate for forty houses or for Coralie (11). **On her:** the scar across her right palm; the card *right*. **Body:** found open-eyed at 2:55 on 12 Dec, in Bayonne hospital until about 6:00, nothing found. **Had from Maylis:** the rake, the postman and the forty-first letter (3); the tow of January 2017 (5); the last line of the pad (9).
+- `coralie-stone` — Runs the care home. In the spare room since February 2015. Has told Lesca what she saw on the phone in 2014 and why she never asked. On 15 Dec: "Good night, Maylis", then the spare room.
+- `larrere-stone` — Former mayor, councillor, association president. Abstained on 15 Dec. Maïté said to his face that he rang from her kitchen; he said "I'll be brief" and nothing more.
+- `maite-stone` — Widow. Laid the flowers and turned her cheek away. Her verb was *Left*. Still holds the ladder for Lesca. Does not open the garden gate to Larrère.
+- `arlette-stone` — Lesca's mother, across the yard. Voted for Larrère three times. "I'm not asking you why".
+- `marie-jo-stone` — Councillor, once the mayor's deputy. First hand up for removal. Said "Maylis" on the stage, her first direct word since 2018.
+- `kevin-stone` — Village worker, in the yellow coat since prison.
+- `etcheto-stone` — Alive, one of the eight. Told by Lesca about the other room twelve: "It was you." "Nobody emptied hers."
+- `jean-stone` — Drowned on 12 Dec 2014. Sits among the dead in two jackets with two cards and does not look up.
 
 ## 2. Fixed by the text
 
-### The 2014 night (L)
-- `rain-2014` — rain from the night before 24 November; eighteen days (ch00, ch03, ch15).
-- `file-2014` — 24–28 Nov "Under the line"; 8 Dec at the line; "11 December 2014, 22:00. Over the line. Rising." Typed: "02:45. Water through the bank at the repair beside the last house, across the width of a door. The keyholder gave the bank ten minutes." / "02:55. Gate raised by the keyholder, by hand. No order had been given to raise it." / "First light. CASTAGNET Jean recovered from the cellar of his duck hut. Trapdoor locked on the inside. Watch stopped at 03:11." (ch03, ch06)
-- `file-levels` — 4 Dec seventy under; 5 Dec fifty-five under (ch05, ch07).
-- `larrere-call-2014` — landline, no name, from Maïté's kitchen, clock ticking: ninety over and rising, gate to stay shut, "do nothing until he rang again" (ch10, ch16).
-- `one-ring` — 02:51, "Castagnet J., mobile. Not answered"; she did not wait for a second ring (ch00, ch10, ch11).
-- `van-seen` — headlights down the track; white van; round red reflector low on the left-hand door, screwed on at an angle (ch10; same on M's van, ch12).
-- `after-gate` — reflector covered four minutes later; pillar eighty, sixty; no water in any house by 4; boat at first light, water to the second step, sole of a boot (ch10).
-- `six-springs` — she had repaired the bank every spring for six years (ch00).
-- `coralie-2014` — on nights that week with Nadine; towels at the back door at 2:30 (ch10, ch11).
-- `morning-after` — Coralie off at 7; Lesca in at 9, hand in a dish towel (ch11).
-- `priest` — the only one told she looked first (ch10).
+### Before the villages part, and the ground they share
 
-### Places and distances
-- `port` — forty houses on low ground behind a clay bank as high as a house; care home the last building; Sarthou's the last house, Darrigrand two doors up at thirty-eight (ch00, ch09, ch14).
-- `patch` — Maylis's yearly repair above Sarthou's roof, a door wide, thirty metres from the care home back door, two hundred metres from the gate (ch05, ch14).
-- `track` — one kilometre from gate to hut; dip at six hundred metres; twenty-five minutes on foot in mud; trapdoor to Darrigrand's door "closer to a kilometre and two hundred metres" (ch07, ch14, ch17).
-- `hut` — cellar under a wooden trapdoor; locks from inside (ch01, ch12).
-- `high-ground` — four houses on the edge; the Castagnets' is the fourth, with a back lane (ch04, ch06).
-- `care-home` — forty-two residents; room twelve the last door on the left, old wing, bank end, two steps lower, ramp up to a fire door; back door to the yard; glass doors and front yard at the other end; minibus has twelve seats; "Seven minutes up" (ch02, ch12, ch14).
-- `landing` — four steps wide in both houses; eleven stairs (ch03, ch08, ch17).
-- `town-hall-hours` — M "opens at 2" (ch01). L: secretary opens at 2 on Wednesday 2 December (ch06) and is at her book at 9 on Friday 11 December (ch11).
-- `bayonne` — twenty minutes (ch09, ch17).
-- `l-changes` — new bank took four houses, thirty-six left; flood fields and Arlette's field are a gravel lake; gate cameras (ch06, ch11).
-- `fields` — three hundred hectares (ch06, ch15).
-- `hontaube` — next village; agreement from 1 January: "You'll belong to us" (ch12).
+- `split` — 12 June 2014, 2 to 5 pm, the steel room in the tobacco barn. Maylis's card says *left*, Lesca's *right*, same hand, "the t crossed low" (1, 2, 5, 17).
+- `worker` — Village worker since 2008: "eighteen years" (2, 5, 12); six springs of bank repair by December 2014 (0).
+- `couple` — August 2010, last night of the festival: "What do you want, Maylis?" "You" (1).
+- `father` — Dead. Keyholder for thirty years. Painted the red line at the height of the Port's doorsteps. Raised the gate four turns short to leave Jeannot his water (1, 3, 10).
+- `port` — Forty houses on low ground under a clay bank as high as a house; the care home at the end, forty-two beds. Sarthou's is the last house; the Darrigrands are at no. 38, two doors up (0, 1, 9, 14).
+- `gate` — On top of the bank, past the road's end. Platform of boards with a rail, a lamp and a padlock; the handle lies in a locked box; one key opens both (2, 9, 12). Eighteen turns lift the gate 10 cm off its stone; it sticks at nineteen and needs a shoulder (1, 5).
+- `distances` — Patch 200 m from the gate towards the Port (14), 30 m from the care home's back door (5). Track 1 km; dip at 600 m; hut 400 m further (7, 14). 25 minutes on foot in mud (7).
+- `hut` — A cellar under a trapdoor that locks from inside. White van; round red reflector low on its left-hand door (1, 10, 12).
+- `inguma` — The size of a sheep; brown leaves over riveted grey steel; smells of cold steel and old tobacco; comes at 2:51 and turns its back (1). The words: "Inguma, enauk hire beldur", then a count, then "You're not to come till you've finished" (2).
+- `rule` — "Some nights it takes the sleeper away with it and leaves her body in the bed. Before morning it takes her home. The one it cannot take home dies in that bed." Then bingo with the dead, corn for markers (2).
+- `townhall` — Opens at 2 in both villages (1, 6); the stone village's secretary is in at 9:00 on 11 Dec (11).
 
-### The gate
-- `key` — one key on Maylis's belt opens the platform padlock and the handle box (ch02, ch09, ch12).
-- `handle` — eighteen turns lift the gate ten centimetres off its stone; sticks at the nineteenth; needs a shoulder (ch01, ch05, ch09).
-- `father` — keyholder thirty years, turned it one-handed, raised it "four turns less than he was told"; painted the red line at doorstep height; dead in M (ch01, ch03, ch09, ch10).
-- `order` — only the association's president can order it raised (ch04).
+### How the crossing has been seen to work
 
-### The crossing and Inguma
-- `box` — 12 June 2014, 2 until 5, steel room in the tobacco barn; left lamp for Maylis, right for Lesca; envelope on a shelf under the panel; door with a rubber seal and no handle (ch01, ch02, ch05).
-- `inguma` — sheep-sized, brown leaves over riveted steel; comes off the wardrobe at 2:51; gone by 2:54 on the first night and the last (ch01, ch17); stays till 4 when she pushes (ch07, ch12).
-- `words` — "Inguma, enauk hire beldur." Then a count, and "You're not to come till you've finished" (ch02).
-- `counts` — Etcheto's stars: till 3. Gravel-lake stones: 6:00 to 9:05 pm (ch05). Roadsides since 2008: thirteen hours, on foot (ch06). Corn in the hall: till morning (ch08). Five fingers: at once (ch13). "Either": no count (ch02, ch09).
-- `ride` — both sit in the chair; the one who stays sitting rides to the other's bed when she wakes (ch03, ch06, ch13). The rider has legs, left hand and mouth; the host keeps the right hand and can seize the jaw (ch03, ch05, ch06).
-- `empty-body` — eyes open, pulse falling, colder each time (ch06, ch09).
-- `leak` — each brings memories home (ch03, ch04, ch10).
-- `truth-rule` — words stick in the steel room twice in the book, and nowhere else. Lesca's "It's the ti—" sticks twice on the same word: "It came out in my kitchen." / "This isn't your kitchen." (ch09); "It's the tide" comes out in her own bedroom (ch11), and she remembers that the word had not come (ch13). At the last meeting her "I won't" "came out whole" (ch17). Everywhere else in that room both women say what they like and nothing certifies it: Lesca stops Maylis's "Either" herself, and her "nobody has looked after your bank for twelve years" comes out whole and is disputed (ch04); "To stay" is her own answer (ch09).
-- `river-follows` — rain comes to M when Maylis lets Lesca in; two nights of pushing gave the only dry days (ch07, ch09).
-- `legend` — "The one it cannot take home dies in that bed"; the dead play bingo with corn and lay a place (ch02).
-- `hall-of-dead` — three rows; Maylis's father at the end of the second row, watch beside his card; empty place in the second row beside Jean, card "LESCA, MAYLIS." (ch09, ch13).
-- `one-inguma` — L's Etcheto waited all night of the 11th; it was with Lesca (ch16).
+- `chair` — Lie still under Inguma and you are in the one chair of the steel room, both lamps lit, the other woman warm beside you (2).
+- `stay-sitting` — When one gets up to wake (the 6:00 alarm, or a phone), the one who stays sitting wakes in that body and drives it, all but the right hand, which stays its owner's. The mouth is fought over (3, 5, 6, 13).
+- `empty-body` — The traveller's own body lies open-eyed and cools: Maylis's pulse 64 to 34 in thirteen hours (6, 7).
+- `fetch` — Inguma comes for the traveller after about twenty minutes unless it is given a count. Lake stones: 06:20 to 21:05 (5). Roadsides: 06:00 to 19:00, five hours over (6). Twenty kilos of corn: till morning (8). Five fingers: at once (13).
+- `leak` — Each wakes with some of the other's memories, "the way mud comes home on a boot" (3, 4).
+- `water` — It rains on the rain village when Lesca reaches Maylis. The two nights Maylis pushed until 4 gave "the only dry days since the 24th" (7, 9).
+- `end` — After "I won't" both lamps go out and Inguma leaves by the door. 02:54; nothing on the wardrobe (17).
 
-### Counts and dates
-- `job` — village worker since 2008, eighteen years (ch02, ch06).
-- `couple` — August 2010, last night of the festival, stacking chairs: "You" (ch01). Sixteen years.
-- `landing-l` — pillow carried across in February 2015 (ch03).
-- `mayor-l` — Lesca mayor eleven years, since 2015; three-minute rule from her first month; Marie-Jo silent since 2018 (ch03, ch06).
-- `letters` — Jeannot paid for forty-one registered letters; seventeen billed the 2017 tow; thirty was the handle; No. 42 by hand, four pages (ch01, ch05, ch14, ch17). L's Jean wrote twelve in his life (ch03).
-- `eels` — Kévin, four winters at the platform; six months if charged (ch06, ch12).
-- `ages` — Etcheto 94; Jeannot 58 (ch02, ch14).
-- `council-l` — thirteen members and the mayor (ch06, ch16).
-- `petition` — nine names; association vote four to three, shut (ch09).
-- `pulse` — 112, 24 Nov; 130, 28 Nov; 64 down to 34, 2 Dec (ch01, ch03, ch07).
-- `ceremony` — twelfth commemoration; eleven before it; two hundred chairs; eight survivors in the front row (ch03, ch11, ch15).
+### Stone village
 
-### Words quoted or written
-- `stone` — JEAN CASTAGNET over MAYLIS LESCA, same capitals, no word between; Maylis's picture adds 12 DECEMBER under her name (ch01, ch03).
-- `lesca-line` — "Come back across. I've left you on that landing eleven years." (ch02, ch03)
-- `motion` — *That the mayor remain seated, and take the other one's bed, and Coralie Mounet in it.* (ch03)
-- `forecasts` — "Friday the 4th, in the morning. The river is seventy under the line"; Tuesday the 8th at the line, yellow warning, "that the gate stays shut, and that people in the Port know they live by a river" (ch05, ch09).
-- `care-list` — out of their beds by 2, dressed, walkers first, then frames, then carried (ch05).
-- `resignation` — *I resign from the job and give up the key, with effect from* … *Saturday 12 December 2026* (ch06, ch17).
-- `pad-back` — *Friday 11th, night. The gate.* / *Key. Same key for the handle box.* / *Eighteen turns lift the gate off the stone. It sticks at nineteen. Left shoulder under the handle.* / *Larrère will ring. Let it ring.* / *White van at the end of the track. He'll be in his hut.* / *Coralie is at the care home that night. Thirty metres from the patch.* The trapdoor line moved to the top with *before dark* (ch09, ch10).
-- `pad-front` — *Friday 11th, night* and one empty box (ch09, ch17).
-- `petition-text` — *The Port asks for the gate to be raised on Friday the 11th, in daylight, on the falling tide.* (ch09)
-- `texts` — *Etcheto back in 12. Walked there on my arm. Said her words.* / *Not 12 tonight. Put her at the front.* / *Asleep. I'm not waking a woman of 94 for orange. Keep asking me things.* (ch12)
-- `speech` — four typed sheets from 2015; third sheet: *Jean Castagnet was at his duck hut that night, as he was on any night of the season. No one came to tell him.* (ch11, ch15)
-- `confession` — "I rang his phone, and I let it ring once. Then I opened the gate, and I drowned him." (ch15)
+- `rain-2014` — Rain from the night before 24 Nov, eighteen days. River at the line on 8 Dec. Last handwritten line: "*11 December 2014, 22:00. Over the line. Rising.*" Ninety over in the night (3, 10, 15).
+- `night-2014` — Larrère rings from a landline with no name: gate shut, stand by. 02:45 water through the repair, door-wide, the bank given ten minutes. 02:51 one ring to Castagnet's mobile. 02:55 gate raised by hand. Reflector under water four minutes later. By 4 the Port is dry (6, 10).
+- `file-typed` — "*First light. CASTAGNET Jean recovered from the cellar of his duck hut. Trapdoor locked on the inside. Watch stopped at 03:11.*" (3, 6)
+- `file-form` — The handwritten lines quoted give no centimetres ("*Under the line. Rain.*"), yet Lesca cites 70 and 55 under from the file (5, 7).
+- `stone` — Grey granite, shoulder high, in the mayor's parking space, facing the square: JEAN CASTAGNET, MAYLIS LESCA, 12 DECEMBER and the year. No verb (1, 3).
+- `speech` — Four sheets, written in 2015. Sheet 3: "*Jean Castagnet was at his duck hut that night, as he was on any night of the season. No one came to tell him.*" (11, 15)
+- `since-2014` — Lesca mayor for eleven years, three elections won. Three-minute rule, white kitchen timer. The State's new bank took four houses, leaving thirty-six. A gravel lake covers the flood fields and Arlette's field. Gate cameras; Kévin's six months; Marie-Jo's sash returned in a plastic bag (3, 6, 11).
+- `ceremony` — Saturday 12 Dec at 11:00, the twelfth. Eight of the forty-two in the front row (11, 15).
+- `council` — Thirteen councillors and the mayor. 2 Dec: Larrère's motion fails, seven all, on the chair's vote. 15 Dec: removal carried by eleven, Larrère abstaining (6, 16).
 
-### Who rang whom (M)
-- `23-nov` — Larrère rang Maylis to raise the gate; Jeannot's hut drained (ch01, ch06).
-- `11-dec-0500` — Maylis rang Jeannot, nine rings, answered in the hut (ch10).
-- `11-dec-evening` — G. Larrère missed at 17:50 and 18:15; at 11 pm Maylis rang Jeannot, nine rings, phone in his van (ch12).
-- `12-dec-night` — phone rang out at 2:51, caller not shown; *Castagnet, house* answered at 2:53, "ninety centimetres over the line and rising"; and rang again at the dip. Maylis rang Coralie about 2:56: "You've got ten minutes" (ch12–14).
+### Rain village
+
+- `letters` — Jeannot's registered letters number forty-one; Maylis signed for the forty-first on 24 Nov. Letter 17 is the tow of January 2017, letter 30 the handle. No. 42 comes by hand, four pages (1, 5, 14, 17). The stone village's Jean wrote twelve (3).
+- `pad` — Bordenave's page *Madame le maire*. Entry of 30 Nov: Larrère will say on Tuesday the 8th, at the café door, "that the river's at the line, that the gate stays shut, and that people in the Port know they live by a river"; he does (5, 9). Forecast for 4 Dec, 70 under: a metre, a cross (7).
+- `resignation` — "*I resign from the job and give up the key, with effect from*", signed left-handed on 1 Dec (6). The blank sheet under it gets *Labat, Kévin.* on 8 Dec (9). Dated *Saturday 12 December 2026* (17).
+- `vote` — 8 Dec: petition with nine names; association three against three; Jeannot's vote for the hunters makes it four to three, shut (9).
+- `plan` — Back of the pad, 8 Dec: gate, key, eighteen turns, "*Larrère will ring. Let it ring.*", white van, trapdoor, Coralie "*Thirty metres from the patch.*" On 11 Dec at 5:10 the trapdoor goes to the top, "*before dark*" (9, 10).
+- `calls` — 11 Dec: Maylis to Jeannot at 5:00, nine rings, answered. Larrère missed at 17:50 and 18:15. Coralie's text at 10 pm: "*Etcheto back in 12.*" Maylis to Jeannot at 11 pm, nine rings, no answer. 12 Dec: the phone rings out at 2:51; *Castagnet, house* at 2:52, answered 2:53, and again at about 2:59. Maylis to Coralie at about 2:56: "Both" (10, 12, 14).
+- `night-2026` — 2:55 the patch is open and she gives it ten minutes. 2:57 she leaves the bank. The van sinks at the dip. Jeannot is out at about 3:00. The bank breaks at 3:11, after sixteen minutes. Jeannot raises the gate at 3:20. Corridor clear at 4:10. Forty-one counted in the hall (14).
+- `care-home` — Back door and old wing (rooms 9 to 12, twelve the last on the left) lie lower than the main corridor, with a ramp and a fire door between. Minibus: twelve seats, seven minutes up. Kévin's van: five a trip (12, 14).
 
 ## 3. Calendar
 
-Every weekday named in the book matches its date. The 2014 night ran from Thursday 11 to Friday 12 December 2014.
+Every day of the week the book states agrees with its date. The night of 11 December 2014 is given no day of the week. Thursday 26 November, Monday 7 and Wednesday 9 December are not shown. In the last column a blank means Maylis alone.
 
-### M village, 2026
+### Rain village, 2026
 
-| Date | Weather | River | Who was where |
+| Date | Weather | River | Lesca, Inguma and the chair |
 |---|---|---|---|
-| Mon 23 Nov | rain from the night | lower than the fields | gate raised, rib cracked; first night on her back |
-| Tue 24 Nov | rain all day |  | Inguma 2:51–2:54; stone picture; signs for letter 41 |
-| Wed 25 Nov | rain |  | Lesca under it with her at 2:51; lights hung; room twelve at 9:45 pm |
-| Thu 26 Nov |  |  | "Either"; Inguma at its minute |
-| Fri 27 Nov |  |  | grey-water picture; card *left* |
-| Sat 28 Nov | rain |  | Lesca in Maylis 06:00–06:20; steel-room meeting that night |
-| Sun 29 Nov |  |  | chrysanthemums to Maïté |
-| Mon 30 Nov | rain |  | Lesca in Maylis 6:00–9:05 pm; palm cut; forecasts |
-| Tue 1 Dec | rain |  | resignation signed; complaint; Larrère at the back gate at dusk |
-| Wed 2 Dec | rain |  | Maylis's body empty 6:00–7 pm; Coralie to the spare room |
-| Thu 3 Dec | dry |  | pushed till 4 |
-| Fri 4 Dec | dry | a metre under at 9 | pushed till 4, coughed pink; forecast wrong by thirty |
-| Sat 5 Dec | rain by noon | fifty-five under | Lesca in Maylis from 6:00; track timed; bingo |
-| Sun 6 Dec | rain |  | Lesca put out at breakfast |
-| Mon 7 Dec |  |  | steel room before dawn: "It's the ti—" |
-| Tue 8 Dec | rain | at the line at 3 pm; yellow | petition; vote four to three; list on the pad |
-| Wed 9 Dec |  |  | 2:51 "Either"; steel room: "Both"; hall of the dead seen |
-| Thu 10 Dec |  | yard water in the care home by 10 pm | Coralie's late shift; the 2014 night received |
-| Fri 11 Dec | rain | over the line by 5 pm; orange | 5:00 call; "Either" on the platform; walk to the hut at 5:30; van on the bank |
-| Sat 12 Dec | rain | ninety over at 2:53; bank breaks 3:11; eighty and falling; gate up 3:20 | Lesca in Maylis 02:52–02:53; Jeannot out; forty-one out by 4:10; Etcheto found 04:16 |
-| Sun 13 Dec |  | gone back out; mud | resignation dated; Maïté leaves; Coralie leaves |
-| Mon 14 Dec | priest's umbrella |  | cards returned, 02:54; the grave |
-| Tue 15 Dec |  |  | burial due at 10 (not shown) |
+| Mon 23 Nov | rain starts in the night | lower than Jeannot's fields; gate raised, hut drained | first night on her back |
+| Tue 24 | rain all day | | Inguma 2:51 to 2:54; the stone picture |
+| Wed 25 | rain | | Lesca first under Inguma with her, 2:51 |
+| Fri 27 | not stated | | the lake picture; the steel room first seen that night |
+| Sat 28 | rain | | Lesca in her 06:00 to 06:20; first meeting that night |
+| Sun 29 | not stated | | |
+| Mon 30 | rain | patch dark, clay on the road | Lesca in her 06:00 to 21:05 |
+| Tue 1 Dec | rain | | |
+| Wed 2 | rain | | body empty 06:00 to 19:00 |
+| Thu 3 | dry | | pushed until 4 |
+| Fri 4 | dry | a metre under at 9:00 | pushed until 4 |
+| Sat 5 | rain from noon | 55 under | Lesca in her from 06:00 |
+| Sun 6 | rain | | Lesca in her until breakfast |
+| Tue 8 | rain | at the line at 3 pm; yellow | meeting that night; the dead first seen |
+| Thu 10 | not stated | yard drain into the care home by 10 pm | the flood night comes to her; back at 04:57 |
+| Fri 11 | rain | orange; over the line by 5 pm | |
+| Sat 12 | rain | 90 over at 2:53; breaks 3:11; 80 and falling | Lesca in her 02:52 to 02:53 |
+| Sun 13 | not stated | dropped; water out through the gap | last meeting, 2:51 to 2:54 on Monday |
+| Mon 14 | rain (the priest's umbrella) | | |
+| Tue 15 | | | burial at 10:00, after the last page |
 
-### L village, 2026
+### Stone village, 2026
 
-| Date | Weather | Who was where |
+| Date | Weather | Lesca |
 |---|---|---|
-| Sat 28 Nov | frost; dry two weeks | Lesca's body empty 06:00–06:20; committee; Maïté's tile at 2; the file; the motion |
-| Mon 30 Nov |  | body empty 6:00–9:05 pm |
-| Wed 2 Dec | frost | Maylis in Lesca 6:00–7 pm; minute of silence at 10; council 6:30 |
-| Sat 5 Dec |  | body empty from 6:00; Arlette beside it from noon |
-| Sun 6 Dec |  | Lesca back at breakfast |
-| Fri 11 Dec | dry | Arlette at 9; stage at 11; Coralie and the speech at 6:45 pm |
-| Sat 12 Dec | wind | body empty from 2:52; Bayonne from about 3 to 6; ceremony at 11; Maïté's gutter |
-| Mon 14 Dec |  | steel room 2:51–2:54: "I won't" |
-| Tue 15 Dec |  | council at 6; removed |
+| Sat 28 Nov | white frost; no rain for two weeks | gone 06:00 to 06:20; committee; Maïté's roof at 2; the file; Arlette; the motion |
+| Mon 30 | | body open-eyed about 06:00 to 21:05 |
+| Wed 2 Dec | frost | Maylis drives her 06:00 to 19:00: minute of silence at 10, council at 6:30 |
+| Sat 5, Sun 6 | | body open-eyed from 06:00 Saturday to Sunday breakfast; Arlette beside it from noon |
+| Fri 11 | dry | Arlette at 9; rehearsal at 11; Coralie at 6:45 pm; on her back after 11 pm |
+| Sat 12 | dry, wind | found 2:55; Bayonne until 6; home by 9; ceremony at 11; Maïté's gutter in the evening |
+| Tue 15 | | council at 6; "Good night, Maylis" |
 
 ## 4. Owed
 
-### Still unpaid
-- `coralie-m-gone` (ch17) — whether she comes back. Left open on purpose.
-- `friday-box` (ch09) — her empty box for Friday night, still on the pad. On purpose.
-- `landing-l` (ch03) — four steps, her door, Lesca's lamp on. On purpose.
-- `stone-word` (ch03) — *Left* is never cut. On purpose.
-- `lesca-fate` (ch15) — the prefect's answer, the medal, the gendarmes. On purpose.
-- `maylis-file` (ch17) — Sarthou's file, the key, No. 42 unanswered, Hontaube from 1 January. On purpose.
-- `larrere-m-reckoning` (ch14) — No. 42 names his calls and the kitchen. On purpose.
-- `burial` (ch17) — Tuesday at 10, the words over her. On purpose.
-- `which-for` (ch10) — forty houses or Coralie's car. Unanswerable on purpose.
-- `did-she-answer` (ch14) — "Did she answer you? Through the door?" On purpose.
-- `why-the-split` (ch01) — why the lamps made two villages. On purpose.
-- `sat-on-me` (ch02) — Coralie: "When has it ever sat on me?" Never answered. Reads as dropped.
-- `pink` (ch07) — Maylis coughed blood and never told Coralie. Reads as dropped.
-- `torn-page` (ch04) — both boxes ticked, in Coralie's coat pocket. Dropped.
-- `motion-sheet` (ch03) — Lesca's motion naming Coralie Mounet; never found. Dropped.
-- `rake-marks` (ch01) — eighteen marks cut in the rake. Dropped.
-- `lights-hour` (ch05) — switch on at 5 or at 6. Dropped.
+### Still unpaid at the end
+
+Seventeen: six that do not look meant, eleven that do.
+
+- `rib-lung` (7) — Coralie's warning: a pushed rib goes into the lung, and the man was dead "before the doctor had his coat off". Maylis has the coins and the pink from 4 Dec, and "Something gave" on the 12th. Nobody examines her. Does not look meant.
+- `right-hand` (9) — "I may not get even the hand back." After the 12th the book does not say what the hand can do. Does not look meant.
+- `rake` (1) — Eighteen marks cut down the rake, never looked at again. Dropped.
+- `tomato` (1) — The green tomato Maylis "would have pulled it up in October". Dropped.
+- `torn-page` (4) — The sentence with both boxes ticked, in Coralie's coat pocket. Dropped.
+- `motion` (3) — Lesca's written motion, left on the kitchen table where Coralie reads what is left (11). Answered only by "Nil" (9). Does not look meant.
+- `key` (17) — "The key goes in my tray." It is still on her belt. Plainly left open.
+- `file` (6, 17) — Sarthou's file with one name in it; letter 42 answers it; no outcome. Plainly left open.
+- `coralie-gone` (17) — The pillow is in the car; the box for Friday night was never ticked. Plainly left open.
+- `through-the-door` (14) — "Did she answer you? Through the door?" Plainly left open.
+- `which-reason` (11) — Forty houses, or Coralie. Plainly left open.
+- `across-the-landing` (16) — Door open, lamp on. Plainly left open.
+- `removal` (16) — The prefect's answer. Plainly left open.
+- `verb` (16) — *Left*, said but not cut. Plainly left open.
+- `larrere-pays` (9, 17) — The petition he refused and the call from the kitchen have cost him only Maïté by the last page. Probably meant.
+- `hontaube` (12) — 1 January. Background, left open.
+- `lights-hour` (5) — "At 5 this year, or at 6?" A joke, left open.
 
 ### Paid
-drawer envelope, ch02 · who was under Inguma, ch03 · second name on the stone, ch03 · order asked of Larrère, ch05 · his threatened file, ch06 · Coralie's March envelope, ch08 · Jeannot's complaint, ch08 · care-home list, ch09 · forecast for the 8th, ch09 · Christmas lights, ch09 · "What is he to you?", ch09 · whom she rang in 2014, ch10 · why 2:51, ch10 · the eleven-year landing, ch11 · "you'll have to ask", ch12 · empty chair and card, ch13 · kitchen clock, ch14 · handle at nineteen, ch14 · Kévin's five fingers, ch14 · Jeannot's vow, ch14 · "dies in that bed", ch14 · the speech line, ch15 · "did you—", ch15 · "Did you know he was out?", ch15 · "Don't kiss me", ch15 · Bayonne threat, ch15 · Arlette's table, ch15 · Maïté's verb, ch16 · "I'll be brief", ch16 · "You're the water", ch16 · the timer, ch16 · stacking chairs, ch16 · Marie-Jo's silence, ch16 · undated resignation, ch17 · Kévin's sheet, ch17 · the eels, ch17 · flying, ch17 · Maïté's suitcase, ch17 · Josiane's rumour, ch17 · "Put it in forty-two", ch17 · the two cards, ch17 · "What do you want, Maylis?", ch17.
+
+Planted chapter, then the chapter that pays.
+
+Who she rang in 2014 (0→10). The date on the stone (1→14). The envelope in the drawer (1→2, 17). Somebody under it with her (1→3). "When has it ever sat on me?" (2→4). The three pictures (1, 2→4, 11). Kévin's fingers and his wish to fly (2→14, 17). Kévin's eels and the key (2→6, 17). Bingo with the dead (2→9, 13, 15). The one it cannot take home (2→13, 15). The landing and its eleven years (2→3, 11). The envelope behind the fruit bowl (4→8, 17). Maïté's suitcase and Larrère's folder in her kitchen (4→12, 17). Maïté's verb (3→16). "Did you know he was out?" and Larrère's "did you—" (3, 6→15). The two forecasts (5→7, 9). The care-home list (5→9, 14). Why it comes (4→8, 9). "What is he to you?" (8→9). The kitchen clock (10→14, 16). The speech line (11→15). "Here" (11→14, 15). "you'll have to ask" (7→12). "Be in the house" (12→17, broken). The undated resignation and Kévin's sheet (6, 9→17). "Put it in forty-two" (1, 5→17). "Either" (1→13, 14, 17). "I'll be brief" (1→16). "What do you want, Maylis?" (1→17). The timer (6→16). "Good night, Madame le maire" (3→16).
 
 ## 5. Contradictions
 
-None open. The three found when this state was rebuilt on 5 October 2026, and the twenty-eight found by the four window checks, were mended the same day (`briefs/window-apply.md`).
+None open. The four found when this state was rebuilt on 6 October 2026, and those found by the four window checks that followed, were mended the same day (`briefs/last-apply.md`).

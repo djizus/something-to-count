@@ -136,7 +136,7 @@ She had written to him three times about that handle. She went back to the leave
 
 Jeannot Castagnet had watched from his white van, outside the café. Now he drove over and rolled his window all the way down.
 
-‘I watched him not sign it,’ he said. ‘I’ve paid for forty-one registered letters, just to get that man’s name on a card, and it’s little Lesca who signs for them.’ He nodded towards the flood fields, where he shot ducks from his hut. It was a cellar dug into the field, under a trapdoor in the grass. ‘One. The water down there is mine. A duck comes down onto standing water. On Sunday night I had a hand’s width of water on those fields.’ He laid his hand flat on the van door. ‘That deep. Two. That gate lets water through both ways. On Monday the river was lower than my fields. You put the gate up, and my water ran out through it, down into the river. Last night I sat over mud.’
+‘I watched him not sign it,’ he said. ‘I’ve paid for forty-one registered letters, just to get that man’s name on a card, and it’s little Lesca who signs for them.’ He nodded towards the flood fields, where he shot ducks from his hut. It was a cellar dug into the field, under a trapdoor in the grass. ‘One. The water down there is mine. A duck comes down onto standing water. On Sunday night I had a hand’s width of water on those fields.’ He laid his hand flat on the van door. ‘That deep. Two. That gate lets water through both ways. On Monday the river was lower than my fields. You put the gate up, and my water ran out through it, down into the river. Then you put it down again. Last night I sat over mud.’
 
 ‘I was told to raise it.’
 
@@ -376,7 +376,7 @@ Lesca, the mayor, was lying on her back in a bed that wasn’t hers, listening t
 
 She breathed in, and a rib caught on the right side. There was nothing wrong with her own ribs.
 
-A minute earlier she had been asleep in a steel chair, with somebody warm sitting in it beside her. Then an alarm had rung a long way off. The warmth had got up to go. Lesca had stayed sitting, and had gone with it.
+A minute earlier she had been asleep in a steel chair, with somebody warm sitting in it beside her. Then an alarm had rung a long way off. The warmth had got up to go. Lesca had stayed sitting, and it had taken her with it.
 
 Coralie was lying between her and the wall, warm from the bed, with her hair flat on one side. She reached across Lesca to stop the alarm. At home that alarm rang on the other side of the landing.
 
@@ -702,7 +702,7 @@ Lesca’s fist opened and closed.
 
 ‘Then stop coming,’ Maylis said. ‘You’ve got a date and no reason for it, and this morning you had my mouth. Stay in your own bed.’
 
-‘I can’t. Inguma has sat on me every night for twelve years, and I’ve never kept it off. I stopped trying in the first month.’ Lesca looked at the arm Maylis held across her side. ‘You pushed it off, the first nights. I felt you do it. That rib will tell you how many more nights you can push.’
+‘I can’t. Inguma has sat on me every night for twelve years and put me in this chair, and I’ve never kept it off. I stopped trying in the first month.’ Lesca looked at the arm Maylis held across her side. ‘You pushed it off, the first nights. I felt you do it. That rib will tell you how many more nights you can push.’
 
 Maylis took a breath to answer and the rib caught on it.
 
@@ -1012,9 +1012,9 @@ Maylis sat in her own chair with her right hand beside the bowl, wrapped in a cl
 
 ‘He lowered his window, to the bottom. He has talked to this village through a gap since 2008. It took his first name to get the glass out of the way.’
 
-Coralie put her head back and laughed. Then she looked across the table for the other half of the laugh.
+Coralie put her head back and laughed. Then she looked across the table for Maylis to laugh with her.
 
-Maylis got that laugh out of her three or four times a year. Lesca didn’t know there was another half.
+Maylis got that laugh out of her three or four times a year. Lesca didn’t know she was meant to laugh too.
 
 ‘By 2 we had the flowers as well,’ Coralie said. She was still smiling. ‘Chrysanthemums, up to Maïté Castagnet’s door on a Sunday, and today you couldn’t take your eyes off her husband. Josiane says it has to be one of them.’ She put her spoon down. ‘So which Castagnet is it?’
 
@@ -1056,7 +1056,7 @@ Cold came down the stairs from the landing, where the bedroom door stood open. C
 
 It came off the last stair and onto Maylis’s chest, where she stood. The pulling stopped. Lesca was gone. Inguma had taken her.
 
-Maylis had her legs back, and her mouth, and a left hand on the rail. Her right hand was still locked around the post, though there was nobody left to hold on against.
+Maylis had her legs back, and her mouth, and her left hand on the rail. Her right hand was still locked around the post, though there was nobody left to hold on against.
 
 Coralie hadn’t moved from the fourth stair.
 
@@ -1130,7 +1130,7 @@ In ten days she would be on that platform at night, and all she had of the night
 
 So she would do what Lesca had done to her, and stay sitting.
 
-At 11, on her back in bed, she said the words quietly to the top of the wardrobe. She gave Inguma every metre of roadside she had cut in this village since 2008, to count before it came to take her home. She worked out that the count would take it one working day: eight hours from 6, when Lesca woke up.
+At 11, on her back in bed, she said the words quietly to the top of the wardrobe. She gave Inguma its work for the morning: to count every metre of roadside she had cut in this village since 2008, once she was across and before it came to take her home. She worked out that the count would take it one working day: eight hours from 6, when Lesca woke up.
 
 Coralie would wake up beside a body with its eyes open and nobody in it. So Maylis wrote *Back at 2* on the shopping pad and stood the pad against the clock radio.
 
@@ -1234,7 +1234,7 @@ The door opened. The secretary bent down and put the next letter on the floor be
 
 ‘Council is at 6:30,’ she said.
 
-If Inguma never came, all of this was hers: the desk, the stone, a square that said good morning. That morning, standing in front of the stone, she might have said yes to it. But all of it came with Kévin’s cap and one pillow.
+If Inguma never came, all of this was Maylis’s: the desk, the stone, a square that said good morning. That morning, standing in front of the stone, she might have said yes to it. But all of it came with Kévin’s cap and one pillow.
 
 * * *
 
@@ -1408,15 +1408,15 @@ Maylis took the jar in her right hand and stood it with the others.
 
 On the platform Lesca read the pillar.
 
-‘Fifty-five under,’ Lesca said out loud, to the right hand. ‘My file has the same.’
+‘Fifty-five under,’ Lesca said out loud, to the right hand. ‘I read the same, that day.’
 
-On Wednesday and Thursday nights Maylis had pushed Inguma off until 4 and never reached the chair. Thursday and Friday were the only dry days since the 24th. Last night Maylis had kept still. Lesca had got her out of bed at 6, and by noon it was raining again.
+On Wednesday and Thursday nights Maylis had pushed Inguma off until 4 and never reached the chair. Thursday and Friday had been the only dry days since the 24th. Last night Maylis had kept still. Lesca had got her out of bed at 6, and by noon it was raining again.
 
 It was only two days. Bordenave would have called that weather. Maylis didn’t, but she had nobody to say it to.
 
 Lesca had taken the watch off Maylis’s right wrist and was holding it in the left hand, out of the rain.
 
-‘From this handle to his trapdoor,’ Lesca said. ‘On foot, in this mud.’
+‘From this handle to Castagnet’s trapdoor,’ Lesca said. ‘On foot, in this mud.’
 
 Lesca waited for the watch to reach the full minute, then walked her down off the bank and onto the track.
 
@@ -1566,7 +1566,7 @@ The cold reached the bar and came over it.
 
 ‘Hire beldur. You’ll count the corn in this hall. On the cards, and in the dishes, and what’s left in the sack. You’re not to come till you’ve finished.’
 
-The tablecloths came down again, one after another, all the way back to the door.
+The tablecloths came down again, one after another, all the way back to the door. The left hand began to push the cloth along the bar again.
 
 The sack held twenty kilos.
 
@@ -1576,7 +1576,7 @@ The sack held twenty kilos.
 
 * * *
 
-In Lesca’s own bedroom the clock radio said 23:55. Her mother had sat beside the bed since noon with her coat on. Coralie was asleep across the landing with her door open.
+In Lesca’s own bedroom the clock radio said 23:55. Her mother had sat beside the bed since noon with her coat on. Coralie was asleep across the landing with her door open. She had taken the pulse at 10, and it hadn’t dropped since noon.
 
 ‘Your father slept with his mouth open,’ Arlette said. ‘I could hear him from the yard. You never made a sound, even as a baby. I used to get up to see.’
 
@@ -1610,7 +1610,7 @@ Coralie took the third step with the wrist still in her fingers. That brought he
 
 Coralie looked down at the hand she was holding. She stood like that, one step from her own bedroom door, with a pulse under her fingers and the left hand on her pillow.
 
-‘I’d have the one who answers,’ she said. ‘Ask me tomorrow and I’d have you. But it’s the other one’s bed, and she’s in this wrist hearing every word, and she hasn’t asked me into it. I don’t get into a bed over somebody who can’t speak. I’ve lifted too many of them.’ She let go of the wrist and took the pillow out from under the left hand. ‘You’ll go back down those stairs.’
+‘I’d have the one who answers,’ she said. ‘Ask me again tomorrow and I’d have you. But it’s the other one’s bed, and she’s in this wrist hearing every word, and she hasn’t asked me into it. I don’t get into a bed over somebody who can’t speak. I’ve lifted too many of them.’ She let go of the wrist and took the pillow out from under the left hand. ‘You’ll go back down those stairs.’
 
 She went back to the door of the spare room and stopped in it.
 
@@ -1624,7 +1624,7 @@ Lesca kept Maylis standing on the landing in front of that door. The light under
 
 ## 9
 
-On Sunday 6 December it was raining. Lesca was sitting in Maylis’s chair at the kitchen table, with the left hand around a bowl of coffee, when Coralie came down in her dressing gown. She sat down across the bread from her.
+On Sunday 6 December it was raining. Lesca was sitting in Maylis’s chair at the kitchen table, with the left hand around a bowl of coffee, when Coralie came down in her dressing gown and sat down across the bread from her.
 
 ‘It’s still you,’ Coralie said. ‘On Monday it fetched you off my stairs. I felt the cold go past me.’
 
@@ -1708,9 +1708,9 @@ That night Maylis didn’t push. Then she was in the chair. Lesca was already ou
 
 ‘It came out in my kitchen,’ Maylis said.
 
-‘This isn’t your kitchen.’ Lesca’s fist closed. ‘A week ago you asked me why it comes, and I told you I didn’t know.’
+‘This isn’t your kitchen.’ Lesca’s fist closed. ‘A week ago you asked me why the river comes, and I told you I didn’t know.’
 
-Maylis waited for her to say so again. She didn’t.
+Maylis waited for her to say so again. Lesca opened her mouth and shut it.
 
 The door of the box opened and Inguma came in over the step. Maylis moved out of its way.
 
@@ -1866,13 +1866,13 @@ Behind Lesca, one wall of the steel room was gone. Where it had been, a waxed wo
 
 One chair was empty.
 
-‘That’s where I sit if I stay with you,’ Lesca said. She hadn’t turned around to look. ‘The old woman in room twelve told you. I’ve worked out what I’d be giving up, and I’ve written it down. Nil.’
+‘That’s where I end up if I stay with you,’ Lesca said. She hadn’t turned around to look. ‘The old woman in room twelve told you. I’ve worked out what I’d be giving up, and I’ve written it down. Nil.’
 
 The door of the box opened. Inguma came in over the step, climbed into the chair and waited. It filled the seat from arm to arm.
 
 ‘On Friday night I’m coming across with you, and I won’t be sent home,’ Lesca said. ‘Your pad says Coralie is at the care home that night, so the only one left to stop me is you, with one hand.’
 
-Maylis turned her back on her and walked out onto the wooden floor, towards the empty chair. Her father was sitting at the end of the second row with his watch beside his card. She stopped and laid her right hand on the tablecloth next to the watch, palm up. He marked a number. He didn’t look up, and she took the hand away.
+Maylis turned her back on Lesca and walked out onto the wooden floor, towards the empty chair. Her father was sitting at the end of the second row with his watch beside his card. She stopped and laid her right hand on the tablecloth next to the watch, palm up. He marked a number. He didn’t look up, and she took the hand away.
 
 The chair next to the empty one was taken. Jean Castagnet sat there in two jackets, with his head down and a card in each hand.
 
@@ -1898,7 +1898,7 @@ Door twelve stood a little open.
 
 Coralie went in. Madame Etcheto was lying against her two pillows, facing her wardrobe. Her slippers stood side by side under the bed, in the water.
 
-‘I’d like you at the front tonight,’ Coralie said. ‘There’s a bed made up in three, and it’s dry.’
+‘I’d like you at the front tonight,’ Coralie said. ‘I’ve had a folding bed put up in three, and it’s dry.’
 
 Madame Etcheto looked past her at the number on the open door.
 
@@ -1946,7 +1946,7 @@ The headlights lit up the rain. At the far end of the track they lit the back of
 
 Only one van in the village had a reflector like that. It was Jean Castagnet’s. That week he had written to the town hall that there was hardly any water at his duck hut. He had his water now. The ducks would have come down onto it, so he would be in the hut, in the cellar under the trapdoor, wearing the long rubber boots he hunted in. If she opened the gate, the river would cover that trapdoor.
 
-The trapdoor was twenty-five minutes away, on foot, in the dark, with the dip under water. The bank had ten.
+The trapdoor was twenty-five minutes away, on foot, in the dark, with the dip under water. The bank had four.
 
 She took out her phone. It had his number in it because of the gate. The screen said 02:51.
 
@@ -1998,7 +1998,7 @@ Lesca’s mother stood in the doorway of the mayor’s office in her coat, with 
 
 It was 9 on Friday morning and Lesca was at her desk in the town hall. Her mother hadn’t been inside the building since the day the truck came for her ponies. Lesca had signed the gravel company’s contract at this desk. The company had taken her mother’s field with the rest, and the flood fields were a lake now. Arlette came three steps into the office and looked around it once, at the desk, at the green safe and at the window, where the back of the stone showed.
 
-Behind her the secretary had the visitors’ book open and her pen ready.
+Behind her the secretary, who had come in early all that week for the ceremony, had the visitors’ book open and her pen ready.
 
 ‘Don’t put me in that,’ Arlette said.
 
@@ -2122,7 +2122,7 @@ It was 6:45 in the evening. On top of the wardrobe there was a folded blanket, a
 
 ‘Why not?’
 
-‘Because you’d have told me.’ Coralie sat down on the edge of the bed, on the side that used to be hers. ‘I was in there. I was working nights that week. The shifts were on the fridge door, and you’d read them. There were two of us working, and only a few in those beds who could have walked out. At 2:30 water was coming in under the back door and I was putting down towels. By 4 it had stopped coming, and at breakfast they told me what had been done. So for twelve years I’ve had two answers. Either you opened it for forty houses, and I live with the mayor. Or you opened it because I was in that building. Then his death is mine as well, and I’ve stood beside his widow for eleven Decembers. I’ve never wanted to hear which one it was. Don’t tell me now. If I’d asked, I’d have had the answer in the house with us, at every meal. I wanted you in the house, and I thought I could have you without it, if I kept a landing between us.’
+‘Because you’d have told me.’ Coralie sat down on the edge of the bed, on the side that used to be hers. ‘I was in the care home. I was working nights that week. The shifts were on the fridge door, and you’d read them. There were two of us working, and only a few in those beds who could have walked out. At 2:30 water was coming in under the back door and I was putting down towels. By 4 it had stopped coming, and at breakfast they told me what had been done. So for twelve years I’ve had two answers. Either you opened it for forty houses, and I live with the mayor. Or you opened it because I was in that building. Then his death is mine as well, and I’ve stood beside his widow for eleven Decembers. I’ve never wanted to hear which one it was. Don’t tell me now. If I’d asked, I’d have had the answer in the house with us, at every meal. I wanted you in the house, and I thought I could have you without it, if I kept a landing between us.’
 
 ‘It rang once.’
 
@@ -2256,7 +2256,7 @@ At 4 Maylis took the bags down to the back door of the care home. The door opene
 
 The bank rose above the yard wall. Through the open door Maylis could see down the whole length of the building. The old wing came first. At its far end a ramp went up to a fire door, which stood open. Beyond that was the main corridor, where the night shift had lined up the wheelchairs. Each one had a folded blanket on the seat and a name on a strip of tape. The minibus was at the other end of the building, in the front yard.
 
-Coralie had the list on a cord around her neck. Every name in the building was on it, each with a letter beside it to show whether that person walked, used a frame or was carried. She was going down the line. At each chair she pressed the tape flat with her thumb, read the name against her list and turned the blanket so that it would open towards the door. Maylis stood on the step with a bag of sand held against her good side and watched Coralie do eleven chairs before she looked up.
+Coralie had the list on a cord around her neck. Every name in the building was on it, each with a letter beside it to show whether that person walked, used a frame or was carried. She was going down the line. At each chair she pressed the tape flat with her thumb, read the name against her list and turned the blanket so that it would open towards the door. Maylis stood on the step with a bag of sand held against her good side and watched Coralie do eleven chairs before Coralie looked up.
 
 ‘I’ve put the ones who can walk nearest the front,’ Coralie said. ‘If the siren goes, Bixente fills the minibus, takes them up to the village hall and comes back for more. I haven’t timed it in water.’
 
@@ -2280,7 +2280,7 @@ Madame Etcheto was sitting in the last wheelchair, at the top of the ramp, with 
 
 ‘So did Inguma. It comes to my room at night. Tonight they want me out here in a chair, and it won’t know where to find me.’
 
-Maylis laid the bags across the bottom of the door with their open ends folded underneath, the way Sarthou laid his. Madame Etcheto counted each one out loud as it went down.
+Maylis laid the bags across the bottom of the door with their necks folded underneath, the way Sarthou laid his. Madame Etcheto counted each one out loud as it went down.
 
 ‘Seventeen,’ she said. ‘That’s not many.’
 
@@ -2306,7 +2306,7 @@ Coralie stood still.
 
 * * *
 
-By 5 Maylis was up on the bank, with the village van parked facing the gate. The river was over the red line. It had gone the colour of the sky, and it was very wide. It went past just under the boards of the platform.
+By 5 Maylis was up on the bank, with the village van parked facing the gate. The river was over the red line. It had gone the colour of the sky, and it was very wide. It went past, a metre under the boards of the platform.
 
 On her other side, far below, the flood fields were under a few centimetres of rainwater. The track ran across them for a kilometre, out to the hunters’ huts.
 
@@ -2318,7 +2318,7 @@ Jeannot’s white van came along the bank from the Port with its headlights on. 
 
 ‘You heard me.’ Jeannot wasn’t laughing. ‘What are you sitting here for?’
 
-‘I’ve been told to stay by the gate, by the phone. And keep it shut.’
+‘I’ve been told to stay by the gate and the phone. And keep the gate shut.’
 
 ‘Then I’m dry.’ He pointed his chin at the fields. ‘The river over the line on that side, and a hand’s width of water on my side. That’s what a bank is for.’
 
@@ -2420,7 +2420,7 @@ He dropped the net into a cool box and took the torch out of his mouth.
 
 ‘She had a van at the end of the track,’ Maylis said. ‘Not yours. Jeannot’s.’
 
-‘That’s something.’ Then he saw her face, and the river going by at the height of the boards. ‘What else did she have?’
+‘That’s something.’ Then he saw her face, and the river coming up towards the boards. ‘What else did she have?’
 
 ‘Nobody. She was by herself. How many seats has your van got?’
 
@@ -2482,7 +2482,7 @@ The screen said 23:34.
 
 Then the screen said 01:12. She hadn’t seen it change. She got out and walked to the gate and back in the rain. There was still time to go down the track and knock. But the dip had been halfway to her knees at dusk, and the river was higher now. If she was down there at 2:51, nobody would be at the gate. She got in again, wet, and rolled the window down to let the cold in. When her head dropped forward, she pushed her thumbnail into the cut on her palm and kept it there.
 
-02:49. She was awake. She laid her left hand on the steering wheel and touched each finger in turn. She counted five.
+02:49. She was awake. She laid her left hand on the steering wheel and touched each finger in turn. She counted five. Then she took the phone up again in that hand.
 
 At 2:51 something heavy landed on the roof of the van. The metal bent in over her head and sprang back. Then Inguma was inside, between her and the windscreen, sitting on her chest with its leaves against the steering wheel. She couldn’t lift a finger.
 
@@ -2648,7 +2648,7 @@ The voice called a number, whole and then in parts. It was on her card, in the t
 
 She tried to stand, but her hand stayed on the seat of the chair. The fingers had locked on the wood. She opened them with the other hand.
 
-Then she stood up straight and walked. A hall with no walls had no door, so she took the aisle between the second row and the third. A man in the third row had his arm around his card so that his neighbour couldn’t copy it. Her father was sitting at the end of the second row, with his watch on the paper tablecloth beside his card. He didn’t look up from his numbers. She didn’t stop. The rows went on and on, and behind her the voice went on calling her name.
+Then she stood up straight and walked. A hall with no walls had no door, so she took the aisle between the second row and the third. A man in the third row had his arm around his card so that his neighbour couldn’t copy it. Her father was sitting at the end of the second row, with his watch on the paper tablecloth beside his card. He didn’t look up from his numbers. She didn’t stop. Behind her the voice went on calling her name.
 
 A long way behind her the dry sound started on the wooden floor. She kept her face turned towards the rows. Then Inguma was on her chest, where she stood, with its leaves under her chin. The strip lights went out, starting from the edges.
 
@@ -2658,7 +2658,7 @@ It was 2:53 on Saturday morning. Maylis had her body back. She also had five wor
 
 ‘Go to the hut first.’
 
-The voice had been her own. Lesca had gone out of her the way warmth goes out of a chair, and those words were what she had left behind. Maylis’s left hand was open on the steering wheel. The engine had died. The phone was ringing in her lap. Eight rings so far.
+The voice had been her own. Lesca had gone out of her the way warmth goes out of a chair, and those words were what Lesca had left behind. Maylis’s left hand was open on the steering wheel. The engine had died. The phone was ringing in her lap. Eight rings so far.
 
 Her right hand was still locked on the handbrake, though nobody was driving her now.
 
@@ -2984,7 +2984,7 @@ Coralie took the torch out of her mouth and put her shoulder to the door. This t
 
 She went in. Maylis went as far as the door frame and held on to it.
 
-The window was gone. The whole of it had come in, frame and glass, and was now under the water. Through the hole Maylis could see the foot of the bank, a metre away, with clay running down it. The curtain had been carried across the room and wrapped around the leg of the chair. On the chair hung a coat, buttoned up and wet to the collar.
+The window was gone. The whole of it had come in, frame and glass, and was now under the water. Through the hole Maylis could see the foot of the bank, across the yard, with clay running down it. The curtain had been carried across the room and wrapped around the leg of the chair. On the chair hung a coat, buttoned up and wet to the collar.
 
 The bed had been wound up as high as it went. The water was level with the mattress.
 
@@ -3040,7 +3040,7 @@ They reached the village by 9.
 
 * * *
 
-Lesca stood on the cross of white tape with the sash over her good coat. The stone was beside her. The two names on it were level with her right knee.
+Lesca stood on the cross of white tape with the sash over her good coat. The stone was beside her. From the stage, the two names on the stone were level with her right knee.
 
 Below her the care home had the front row. Coralie had brought the residents up in two groups, put their chairs on her strips of tape and given each of them a blanket. Madame Etcheto sat at the end nearest the stone with her handbag on her knees. Her lips were moving. Behind the front row the square was full as far as the church wall, and people were still coming up the road from the bank. It was more people than had ever voted for Lesca.
 
@@ -3068,7 +3068,7 @@ The speech was typed on four sheets. She had written it in 2015.
 
 ‘It began to rain on 24 November,’ she read, ‘and it rained for eighteen days.’
 
-The first sheet was about the rain. She told them about the drains running backwards into the yards. She told them about the fields, under water that had all come from the sky, and about the red line on the pillar of the old gate, which she had read at 8 every morning. Her voice went out over the square, came back off the church and came a third time from the road to the bank.
+The first sheet was about the rain. She told them about the drains running backwards into the yards. She told them about the fields, under water that had all come from the sky, and about the red line on the pillar of the old gate, which she had read every day. Her voice went out over the square, came back off the church and came a third time from the road to the bank.
 
 The second sheet was about the river. On the night of the 11th it stood ninety centimetres over the red line. Water was coming through the old bank at the Port. Behind that bank were forty houses and a care home with forty-two people in their beds. Eight of the forty-two were sitting a few metres from her knees.
 
@@ -3180,7 +3180,7 @@ That evening Maïté let Lesca in without asking why she had come. Maïté still
 
 ‘Yes.’ Maïté went to the door and held it open. Then she looked up at the edge of the roof, in the light from the kitchen. ‘That back gutter’s blocked again. Have a look at it before you go.’
 
-Lesca set the ladder against the edge of the roof and Maïté held it. The gutter was packed solid. Lesca cleared it by hand, dropping the rotten leaves past Maïté’s shoulder in black handfuls.
+Lesca set the ladder against the edge of the roof and Maïté held it. There were leaves in the gutter again. Lesca cleared them by hand, dropping them past Maïté’s shoulder.
 
 At the bottom of the garden somebody lifted the catch of the gate.
 
@@ -3250,7 +3250,7 @@ The secretary counted the hands and wrote the number down. Then her pen came up 
 
 That night Lesca was sitting on the edge of her bed when Coralie came up the stairs and stopped on the landing.
 
-‘It was in the care home before the council had its coats on,’ Coralie said. She had her hand on the spare-room door. ‘So that’s eleven years of Madame le maire gone, and I need something to call you. The gendarmes say Madame Lesca. I’m not saying that across a landing.’
+‘The vote was in the care home before the council had its coats on,’ Coralie said. She had her hand on the spare-room door. ‘So that’s eleven years of Madame le maire gone, and I need something to call you. The gendarmes say Madame Lesca. I’m not saying that across a landing.’
 
 She stayed there a moment longer, four steps away.
 
@@ -3398,13 +3398,13 @@ Then she went upstairs. Maylis heard her cross the landing to the spare room and
 
 * * *
 
-That night Maylis got into the middle of the bed, on her back, and waited for Inguma. There was one pillow on the bed.
+That night Maylis got into the middle of the bed, on her back, with the card from her raincoat in her hand, and waited for Inguma. There was one pillow on the bed.
 
 At 2:51 Inguma came down and sat on her. She kept still under it. Then she was in the chair with Lesca. They got up out of it and faced each other, while Inguma waited just inside the door.
 
 The wall where the hall had been was steel again. Lesca’s right hand hung open at her side. She didn’t call anything to order.
 
-Maylis had the card from her raincoat in her hand. *left*. Lesca was holding the one from the shelf. *right*. It was the same handwriting, with the t crossed low.
+Maylis still had her card in her hand. *left*. Lesca was holding the one from the shelf. *right*. It was the same handwriting, with the t crossed low.
 
 ‘Forty-one,’ Maylis said.
 
