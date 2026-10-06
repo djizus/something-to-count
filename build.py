@@ -30,6 +30,28 @@ def is_break(block):
     return block.replace(" ", "") == "***"
 
 
+OPENS_AFTER = set(" \t\n([—–-*\"'")
+
+
+def curl(text):
+    """Turn straight quotation marks into typographic ones.
+
+    A mark opens when it follows a space, a dash or another opening mark and
+    is followed by a character; every other single mark closes or is an
+    apostrophe. The manuscript has no word that begins with an apostrophe.
+    """
+    out = []
+    for i, ch in enumerate(text):
+        if ch in "'\"":
+            before = text[i - 1] if i else " "
+            after = text[i + 1] if i + 1 < len(text) else " "
+            opens = before in OPENS_AFTER and not after.isspace()
+            out.append({"'": "‘’", '"': "“”"}[ch][0 if opens else 1])
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
 def inline(text, italic, escape):
     parts = re.split(r"\*([^*]+)\*", text)
     return "".join(italic(escape(p)) if i % 2 else escape(p) for i, p in enumerate(parts))
@@ -56,7 +78,7 @@ def build(title, author):
                 page.append("<p class='break'>* * *</p>")
                 first = True
                 continue
-            text = " ".join(block.split("\n"))
+            text = curl(" ".join(block.split("\n")))
             md += [text, ""]
             cls = " class='first'" if first else ""
             page.append(f"<p{cls}>" + inline(text, lambda s: f"<em>{s}</em>", html.escape) + "</p>")
@@ -79,8 +101,8 @@ def build(title, author):
     office = shutil.which("soffice") or shutil.which("libreoffice")
     if office:
         print_css = ("@page{size:A5;margin:2cm 1.8cm}body{font:11pt/1.45 'Liberation Serif','Noto Serif',serif}"
-                     "h1.title{text-align:center;margin-top:6cm;font-weight:normal;page-break-after:always}"
-                     "p.author{text-align:center}h2{text-align:center;font-weight:normal;margin:2cm 0 1cm;"
+                     "h1.title{text-align:center;margin-top:6cm;font-weight:normal;font-family:'Liberation Serif','Noto Serif',serif}"
+                     "p.author{text-align:center;text-indent:0;margin-top:1cm}h2{text-align:center;font-weight:normal;margin:2cm 0 1cm;"
                      "page-break-before:always}p{margin:0;text-indent:1.2em;text-align:justify}"
                      "p.first{text-indent:0}p.break{text-align:center;text-indent:0;margin:.8em 0}")
         work = OUT / "_print"
